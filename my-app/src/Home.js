@@ -4,8 +4,9 @@ import React from "react";
 const Home =() =>{
     return (
         <>
-        <a href="/">Assignmentfirst</a>
-        <a href="/Assignment2">Assignement2</a>
+        <a href="/Assignmentfirst" >   Assignment 1   </a>
+        <a href="/Assignment2">   Assignement 2   </a>
+        <a href="/Assignment3">   Assignement 3   </a>
         </>
     )
 }
